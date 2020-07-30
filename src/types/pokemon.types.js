@@ -1,0 +1,1 @@
+export const GET_POKEMONS = 'POKEMON_GET_POKEMONS';
